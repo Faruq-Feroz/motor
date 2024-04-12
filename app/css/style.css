@@ -1,0 +1,9 @@
+.car{
+    position: relative;
+    top: 100px;
+    font-size: 80px;
+}
+
+.has{
+    background: orange;
+}
